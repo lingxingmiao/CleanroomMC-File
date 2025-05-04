@@ -1,6 +1,6 @@
 致敬创奇耐下王CleanroomMC
 
-有IPv6可以在hosts.txt添加
+有IPv6可以在hosts添加
 
 142.132.154.141 maven.cleanroommc.com
 
